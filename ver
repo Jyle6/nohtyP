@@ -1,8 +1,8 @@
-#!/bin/python3
-import sys
-# sesrever taht margorp elpmis
+)''=dne ,]1-::[)(daer.nidts.sys(tnirp    
+:esle
+)''=dne ,]1-::[]1[vgra.sys(tnirp    
+:1 > )vgra.sys(nel fi
 
-if len(sys.argv) > 1:
-    print(sys.argv[1][::-1], end='')
-else:
-    print(sys.stdin.read()[::-1], end='')
+simple program that reverses #
+sys tropmi
+3nohtyp/nib/!#
