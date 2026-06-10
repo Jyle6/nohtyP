@@ -1,0 +1,8 @@
+#!/bin/python3
+import sys
+# sesrever taht margorp elpmis
+
+if len(sys.argv) > 1:
+    print(sys.argv[1][::-1], end='')
+else:
+    print(sys.stdin.read()[::-1], end='')
